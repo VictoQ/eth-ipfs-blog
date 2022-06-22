@@ -1,0 +1,1 @@
+This is a IPFS based blog posting the hash of the blog on the blockchain
